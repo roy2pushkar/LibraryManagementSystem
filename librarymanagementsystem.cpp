@@ -1,5 +1,6 @@
 //DEFAULT ADMIN PASS IS "admin"
 
+
 #include <bits/stdc++.h>
 #define cntr setw(70)
 
